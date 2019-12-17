@@ -2,3 +2,4 @@ This is the second file.
 Adding more lines.
 And even more lines.
 Line number 4.
+Line number 5.
